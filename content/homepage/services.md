@@ -11,7 +11,7 @@ header_menu: true
 <br/><br/>
 ### [Mobile Device Management](mdm)
 <br/><br/>
-### [Identity and Access Management](iam)
+### [Identity & Access Management](iam)
 <br/><br/>
 ### [Security & Compliance](security)
 <br/><br/>
