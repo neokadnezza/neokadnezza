@@ -1,6 +1,6 @@
 ---
-title: "GitHub"
+title: "LinkedIn"
 weight: 99
 header_menu: true
-external: https://github.com/zjedi/hugo-scroll
+external: www.linkedin.com/in/timur-rothenpieler-76a41828a
 ---
