@@ -10,7 +10,7 @@ Mühlendamm 5
 
  
 
-<!-- Umsatzsteuer-ID gem. § 27a UStG: DE beantragt -->
+Umsatzsteuer-ID gem. § 27a UStG: beantragt
 
  
 <br>
