@@ -10,7 +10,7 @@ Mühlendamm 5
 
  
 
-Umsatzsteuer-ID gem. § 27a UStG: beantragt
+Umsatzsteuer-ID gem. § 27a UStG: DE 75 623 189 034
 
  
 <br>
